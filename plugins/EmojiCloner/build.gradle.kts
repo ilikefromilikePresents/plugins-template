@@ -6,3 +6,4 @@ aliucord {
     changelog.set("Initial release")
     excludeFromUpdaterJson.set(true)
 }
+ 
